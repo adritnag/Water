@@ -1,0 +1,37 @@
+.Heading{
+    height: 55px;
+    text-align: center;
+    border: solid;
+    border-width: 2px;
+    background: aqua;
+}
+
+#a1{
+    float: right;
+    width: auto;
+
+    border: solid;
+    border-width: 2px;
+    border-color: rgb(0, 0, 0);
+}
+
+#a2{
+    border: solid;
+    width: auto;
+    float: right;
+    border-width : 2px;
+}
+
+#a3{
+    float: right;
+    width : auto;
+    border : solid;
+    border-width: 2px;
+}
+
+#a4{
+    float: right;
+    width: auto;
+    border: solid;
+    border-width: 2px;
+}
